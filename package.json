@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/KatyRoffe/cloud-server/issues"
   },
-  "homepage": "https://github.com/KatyRoffe/cloud-server#readme"
+  "homepage": "https://github.com/KatyRoffe/cloud-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
